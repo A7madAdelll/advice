@@ -30,6 +30,10 @@ class Card extends Component {
 
      <br />
      <br />
+     <br />
+     <br />
+     <br />
+     <br />
 
     
 
